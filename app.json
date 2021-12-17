@@ -1,16 +1,16 @@
 {
-    "name": "Video x Music Stream Bot",
+    "name": "HYPER MUSIC",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "logo": "https://telegra.ph/file/f819b0e13c279ff09e69b.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
-    "success_url": "https://t.me/dlwrml",
+    "website": "https://t.me/UNIQUE_SOCIETY",
+    "repository": "https://github.com/HarshPanditXD/hyper-music",
+    "success_url": "https://t.me/Harsh_Pandit",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -47,22 +47,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "VeezSupportGroup"
+            "value": "HYPERMEN_SUPPORT"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "levinachannel"
+            "value": "HYPER_LOGS"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "dlwrml"
+            "value": "HARSH_PANDIT"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "Levina"
+            "value": "HYPER"
         }
     },
     "addons": [],
