@@ -1,6 +1,4 @@
-
-
-## 🧪 Get `HYPER MUSIC` from below:
+ HYPERMEN MUSIC
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``Pyrogram``
 
